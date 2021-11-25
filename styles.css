@@ -17,3 +17,31 @@ a:visited {
     text-decoration: underline;
     color: rgb(228, 236, 206);
   }
+
+  h4{
+      color: rgb(4, 71, 80);
+  }
+  img {
+    opacity: 0.5;
+  }
+
+
+.intro img{
+    width: 500px;
+    float: right;
+}
+
+.projects img{
+    width: 300px;
+    float:left;
+}
+.aboutMe img {
+    width: 300px;
+    float: right;
+}
+/*section::after {
+    content: "";
+    display: table;
+    clear: both;
+  }*/
+  
