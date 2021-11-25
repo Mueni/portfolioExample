@@ -18,11 +18,9 @@ a:visited {
     color: rgb(228, 236, 206);
   }
 
-  h4{
-      color: rgb(4, 71, 80);
-  }
-
-
+h4{
+    color: rgb(4, 71, 80);
+}
 .intro img{
     width: 500px;
     float: right;
@@ -36,9 +34,4 @@ a:visited {
     width: 300px;
     float: right;
 }
-/*section::after {
-    content: "";
-    display: table;
-    clear: both;
-  }*/
   
