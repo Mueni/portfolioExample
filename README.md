@@ -21,5 +21,6 @@ Html and CSS
 In case of an issue, contact on 4missmusau@gmail.com
 
 ### License
-*This project is using the MIT license as explained here; https://github.com/Mueni/portfolioExample/blob/main/LICENSE
+*This project is using the MIT license as explained here; https://github.com/Mueni/portfolioExample/blob/main/LICENSE*
+
 Copyright (c) 2021 **Mueni**
